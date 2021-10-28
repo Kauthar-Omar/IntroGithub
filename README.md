@@ -13,13 +13,28 @@ ___
 This is an introduction to github lesson from [Pwani University](https://www.pu.ac.ke/index.php/en/ "This is a hover description of the link")
 
 :wave: welcome to the database class
-![database lessob](https://user-images.githubusercontent.com/57720624/139223130-6a689a32-47ae-4f04-ab63-4aa388b4a39d.png)
+
+![database lesson](https://user-images.githubusercontent.com/57720624/139223130-6a689a32-47ae-4f04-ab63-4aa388b4a39d.png)
+
+At the PUBREC bioinfo lab
+
+![pwani university](https://pbs.twimg.com/profile_images/3191603559/1284e8d4ef1e0080b451460b5146e54e_400x400.jpeg)
 
 <p> This is an HTML tag intro </p>
 
 This is an introduction to github lesson from [Pwani University](www.pu.ac.ke/index.php/en/ "This is a hover description of the link")
 
 <h2> level2 </h2>
+
+**text**
+***text***
+*text*
+_text_
+__text__
+___text___
+~text~
+~~text~~
+
 <h3> level3 </h3>
 
 ____
@@ -30,4 +45,6 @@ ____
 <h6> level6 </h6>
 
 Github intro lesson.
+
+
                                                                                                                                        
