@@ -66,5 +66,9 @@ ____
 
 Github intro lesson.
 
+|ID|Name|Gender|
+|---|---|---|
+|01|Zaina|Female|
+|02|George|Male|
 
                                                                                                                                        
