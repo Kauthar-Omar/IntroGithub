@@ -67,10 +67,10 @@ ____
 Github intro lesson.
 
 |ID|Name|Gender|
-|---|---|---|
-01|Zaina|Female|
-02|George|Male|
-03|Brenda|Female|
-04|Mudaki|Male|
+|---|---:|:---:|
+01|Zaina|Female
+02|George|Male
+03|Brenda|Female
+04|Mudaki|Male
 
                                                                                                                                        
